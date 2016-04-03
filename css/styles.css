@@ -5,13 +5,13 @@
 }
 
 hr {
-	width: 80%;
+	width: 70%;
 	border-color: rgb(228,95,152);
 }
 
 
 .title {
-	color: rgb(39,66,155);
+	color: rgb(51,130,201);
 	margin-top: 30px;
 	margin-bottom: 30px;
 	text-align: center;
@@ -30,9 +30,15 @@ p {
 }
 
 h3 {
-	color: rgb(39,66,155);
+	color: rgb(51,130,201);
 }
 
 .exp img {
-	width: 150px;
+	width: 100px;
+	margin-left: 30px;
 }
+
+
+
+
+
