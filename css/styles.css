@@ -6,8 +6,9 @@
 
 hr {
 	width: 65%;
-	border-color: rgb(228,95,152);
+	border-color: rgb(204,0,0);
 }
+
 
 
 .title {
@@ -37,6 +38,12 @@ h3 {
 	width: 100px;
 	margin-left: 15px;
 }
+
+.subheading {
+	margin-left: 15px;
+	font-size: 18px;
+}
+
 
 
 
