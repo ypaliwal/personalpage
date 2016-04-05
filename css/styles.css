@@ -6,7 +6,10 @@
 
 hr {
 	width: 65%;
-	border-color: rgb(204,0,0);
+	border-color: rgb(219,43,118);
+}
+.last-bar {
+	width: 40%;
 }
 
 
@@ -36,7 +39,7 @@ h3 {
 
 .exp img {
 	width: 100px;
-	margin-left: 15px;
+	margin-left: 20px;
 }
 
 .subheading {
@@ -44,6 +47,10 @@ h3 {
 	font-size: 18px;
 }
 
+.smlinks img {
+	display: inline;
+	margin-left: 10px;
+}
 
 
 
